@@ -127,8 +127,3 @@ Output:
 * Try Random Forest & XGBoost
 * Deploy using Streamlit
 
----
-
-## 👩‍💻 Author
-
-Astha Pal
